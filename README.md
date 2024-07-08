@@ -5,4 +5,4 @@ you can download the dataset from kaggle
 
 Dataset link:https://www.kaggle.com/datasets/elysian01/yoga-pose-classification?resource=download
 
-Then start running the cells given in ipynb file
+Then start running the code provided.
