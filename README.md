@@ -6,4 +6,5 @@ you can download the dataset from kaggle
 Dataset link:https://www.kaggle.com/datasets/elysian01/yoga-pose-classification?resource=download
 
 Then start running the code provided.
+
 If you find any difficulties you can refer the paper written by us provided here.
